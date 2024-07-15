@@ -11,8 +11,7 @@ p{background: #A5B452;
 	text-align: center;}
 body{
 	background-image: url('fuji-cherry-GettyImages-1060517676-1024x600.jpeg');
-	width: 1024px;
-	height: 1000px;
+	background-size: contain; / 1024px 1000px /
 }
 
 	
