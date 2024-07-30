@@ -3,18 +3,100 @@ h1{
 	text-align: center;
 }
 h2{
-	text-align: center;
-	color: #4E8098;;
+	text-align: left;
+	color: #FFFFFF;;
 }
-p{background: #A5B452;
+p{background: #CC444B;
 	text-align: justify ;
 	text-align: center;}
-body{
-	background-image: url('fuji-cherry-GettyImages-1060517676-1024x600.jpeg');
-	background-size: contain; / 1024px 1000px /
+
+body{background-color: #E4B1AB;
+	
+	 background-size: contain;}
+
+
+
+colored-band {
+    background-color: #FFFFFF;
+    height: 55px;
+    width: 100%;
 }
 
-	
+body {
+    font-family: 'Trebuchet MS', Lemon Shake Shake, sans-serif;
+    margin: 30
+    padding:50
+    background-color: #f5ebe0;
+}
+
+header {
+    background-color: #CC444B;
+    padding:  10px 
+    text-align: center;
+    border-bottom: 5px solid:#E4B1AB;
+}
+
+header h1 {
+    margin: 0;
+    color: #fff;
+    text-shadow: 2px 2px #d72423ff;
+}
+
+nav {
+    background-color: #d8b7a8;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #6fb496;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+main h2 {
+    margin: 10px;
+    color: #d8b7a8;
+}
+
+main p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+
+
+.personnage {
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+
+.personnage img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 2vw;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+/*    object-fit: cover;*/
+}
+
+.personnage h2 {
+    margin: 5px 0;
+    color: #d8b7a8;
+}
+
 
 
 
